@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou Lazim
-- 👀 Estou interessado em C,C++ e Python
-- 🌱 Estou aprendendo desenvolvimento de redes neurais com Python.
+- 👀 Estou interessado em C, Python e GDScript
+- 🌱 Atualmente desenvolvendo um jogo em parceria. Engine Godot 4
 
 <div>
   <a href="https://github.com/LazimR">
