@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou Lazim
-- 👀 Estou interessado em C, Python e GDScript
-- 🌱 Atualmente desenvolvendo um jogo em parceria. Engine Godot 4
+- 👀 Estou interessado em React, Python e Figma
+- 🌱 Atualmente desenvolvendo um sistema de coordenação estudantil.
 
 <div>
   <a href="https://github.com/LazimR">
