@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou Lazim
 - 👀 Estou interessado em React, Python e Figma
-- 🌱 Atualmente desenvolvendo um sistema de coordenação estudantil.
+- 🌱 Atualmente desenvolvendo um sistema de avaliação utilizando taxonomia de Bloom, meu TCC.
 
 <div>
   <a href="https://github.com/LazimR">
