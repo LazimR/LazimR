@@ -3,14 +3,6 @@
 Olá! Sou o **LazimR** (Lazaro Claubert), desenvolvedor **FullCycle** apaixonado por TypeScript, React, Electron, Nest.js e infraestrutura em produção.  
 
 **Rumo a Tech Lead**, sempre aberto a novas tecnologias e desafios!
-
-<p align="center">
-  <a href="https://github.com/LazimR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LazimR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazimR&layout=compact&langs_count=7&theme=dark" />
-  </a>
-</p>
-
 ---
 
 ###  Ferramentas & Tecnologias
@@ -30,11 +22,6 @@ Olá! Sou o **LazimR** (Lazaro Claubert), desenvolvedor **FullCycle** apaixonado
 
 ###  Sobre mim
 Estudante de **Sistemas de Informação** na UFPI. FullCycle Developer, utilizando tecnologias como Electron, Next.js, Nest.js, Docker, Kubernetes, e documentação clara de processos. Atualmente, meu objetivo é evoluir para **Tech Lead**, mantendo-me sempre aberto e entusiasmado por novas tecnologias.
-
----
-
-###  Atividades recentes
-![Snake animation](https://github.com/LazimR/LazimR/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
